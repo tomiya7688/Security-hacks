@@ -57,7 +57,7 @@
 
 [「なぜ起きる？」の解説一覧](docs/why/README.md)では、事件の速報とは別に、脆弱性が生まれる原因を小さな例から理解します。
 
-例えば、[メモリリークはなぜ起きる？](docs/why/memory-leak.md)や[メモリ操作のミスがなぜ乗っ取りにつながる？](docs/why/memory-safety.md)など。専門用語の前に、**何を間違えると、どういう現象が起こるのか**を説明します。
+例えば、[メモリリーク](docs/why/memory-leak.md)、[SQLインジェクション](docs/why/sql-injection.md)、[他人の情報が見える理由](docs/why/idor.md)、[処理が重なったときの問題](docs/why/race-condition.md)など。専門用語の前に、**何を間違えると、どういう現象が起こるのか**を説明します。ほかのテーマも[一覧](docs/why/README.md)からどうぞ。
 
 ## ✍️ 記事の書き方：まず読者の疑問から
 
