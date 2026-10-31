@@ -14,6 +14,7 @@
 | --- | --- | --- |
 | 2026-10-30（報道・注意喚起） | [Linuxのネットワーク処理で遠隔からroot権限？（CVE-2026-98432）](2026-10-31-linux-kernel-cve-2026-98432.md) | Linuxサーバー管理者・Linux利用者 |
 | 2026-10-30 | [Binanceの約63億ドル流出、何が起きた？](2026-10-31-binance-hot-wallet-incident.md) | Binance利用者・暗号資産取引サービス管理者 |
+| 2026-10-29（研究公表） | [AI開発ツールの内蔵ブラウザーに5つの問題「EMBRACE」](2026-10-31-embrace-embedded-browsers.md) | Codex・VS Code・Claude Desktop・Cursor・GitHub Copilot利用者 |
 | 2026-10-29（米国時間） | [Claude Code拡張機能を入れただけでPCに「裏口」？（Cursorの配布事故）](2026-10-30-cursor-claude-code-extension.md) | CursorでClaude Code拡張機能を使っている人 |
 | 2026-10-22 | [PHPで、外部から勝手にプログラムを動かされるおそれ（PHP2Shell）](2026-10-22-php2shell.md) | PHPでサイトを運用している人 |
 | 2026-10-21（初報） | [GMO「お名前.com デスクトップクラウド」の不正アクセスと金銭要求](2026-10-31-gmo-desktop-cloud-incident.md) | 該当クラウドサービス利用者・FX取引ツール利用者 |
